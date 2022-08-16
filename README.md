@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satish Patel
 - 👀 I’m interested in `Java`, `Node.js`, `JavaScript`.
-- 🌱 I’m currently learning `Spring`, `Spring Boot`, `Kafka`, `Docker`, `Kubernetes` and `Microservices` Development.
+- 🌱 I’m currently working on project using `Spring`, `Spring Boot`, `Kafka`, `Docker`, `Kubernetes` and `Microservices` Development.
 - 📫 Reach out to me at ssj.satish@gmail.com
 
 <!---
